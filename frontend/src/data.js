@@ -13,12 +13,12 @@ const data = {
     },
     {
       _id: "2",
-      name: "Allen Solly Shirt",
+      name: "Allen Solly lenin Shirt",
       category: "Shirts",
       image: "/images/p2.jpg",
       price: 98,
       brand: "Allon Solly",
-      rating: 4.0,
+      rating: 3.0,
       numReviews: 10,
       description: "high quality product",
     },
@@ -35,7 +35,7 @@ const data = {
     },
     {
       _id: "4",
-      name: "Lee-Cooper trouser",
+      name: "Lee-Cooper Trouser",
       category: "Trousers",
       image: "/images/p4.jpg",
       price: 190,
