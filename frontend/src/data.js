@@ -14,7 +14,7 @@ const data = {
     },
     {
       _id: "2",
-      name: "Allen Solly lenin Shirt",
+      name: "Allen Solly Lenin Shirt",
       category: "Shirts",
       image: "/images/p2.jpg",
       price: 98,
